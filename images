@@ -1,0 +1,5 @@
+Assignment images
+touch images.gitkeep
+git add images/.gitkeep
+git commit -m "Add images folder"\
+git push
